@@ -18,4 +18,20 @@ Once that is done and it has a fog like effect just press N and set these up ![i
 Hold shift and A and select mesh and then plane and then hold on the S key to scale it
 ![image](https://github.com/user-attachments/assets/bcd223dc-55e8-4cbb-b49e-64c1fab5ebbf) ![image](https://github.com/user-attachments/assets/3619cfc0-72bd-4daa-bf92-2f93504f073e)
 
+Then hold X while you are scaling your plane mesh and hover over the mesh by going to edit mode and holding CTRL and R to add in between 8-10 splits ![image](https://github.com/user-attachments/assets/2ea938e0-e037-43eb-baf1-bc9889ab6768) ![image](https://github.com/user-attachments/assets/bfaca696-1a79-4935-a7d3-bbf33383f7a2)
+
+
+Then do Shift A and click on Curve and the path and Scale it ![image](https://github.com/user-attachments/assets/e251ab58-fc22-48ba-bbaa-1556d53b4db3)
+
+
+Then add in 2 modifiers, one for Array and one for Curve for your plane mesh and under curve object select nurbspath, the mesh will follow along the path when you put new points down you will see in a second (Psst. click on the wrench icon) ![image](https://github.com/user-attachments/assets/543929f8-fc01-4add-b2a2-7d8bd38013f0)
+
+Click on the wrench icon again under your plane mesh and select the array modifier and make sure the Array count is set way higher than 2 (e.g 200)
+![image](https://github.com/user-attachments/assets/5a143556-bf38-4285-88b6-f5e8215ca7e8)
+
+
+Now select nurbspath and go to edit mode, select the point farthest way from your startgrid and press E and your mesh will start going along the path
+to place it down just click with your mouse and keep doing this until you have a layout you like
+Then select the end point and the start point and press the F key to connect it all ![image](https://github.com/user-attachments/assets/9f58a8e0-c0eb-47c4-a183-81b621d806c6)
+
 
